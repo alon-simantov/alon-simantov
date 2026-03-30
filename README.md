@@ -1,5 +1,3 @@
-
-```markdown
 # Hi, I'm Alon Siman-Tov 👋
 
 **PMTS Full Stack Developer @ Salesforce** | AI Implementation Engineer
@@ -23,7 +21,7 @@ Open to **Senior AI Implementation Engineer**, **AI Solution Architect**, and **
 Ollama • SearxNG • LangGraph • Cascaded RAG • Agentic AI • NVIDIA DGX Spark • Python • Docker • High-Scale Cloud Architecture
 
 **Connect**  
-[LinkedIn](https://www.linkedin.com/in/alon-siman-tov-7966093/) | [Resume PDF](https://github.com/alon-simantov/alon-simantov/raw/main/Alon_Siman_Tov_Resume.pdf) | [Email me](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/alon-siman-tov-7966093/) | [Email me](mailto:alon.simantov@gmail.com)
 
 ---
 
